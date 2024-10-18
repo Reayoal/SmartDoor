@@ -1,0 +1,26 @@
+/* Settings page styles */
+.settings {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .settings h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .settings .button {
+    padding: 12px 24px;
+    background-color: #ff8c00;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .settings .button:hover {
+    background-color: #e07b00;
+  }
+  

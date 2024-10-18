@@ -1,0 +1,39 @@
+/* About page styles */
+.about {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .about h2 {
+    font-size: 320px;
+    color: #111;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    font-size: 18px;
+    color: #666;
+    max-width: 800px;
+    margin: 0 auto 30px;
+  }
+  
+  .about .team {
+    margin-top: 20px;
+  }
+  
+  .about .team h3 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .about .team ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .about .team li {
+    font-size: 18px;
+    color: #555;
+  }
+  

@@ -1,2 +1,0 @@
-# SmartDoor
-SmartDoor Website
